@@ -1,3 +1,1 @@
-The address of the LeetCode problem is here:
-
-https://leetcode.com/problems/fizz-buzz/
+FizzBuzz: https://leetcode.com/problems/fizz-buzz/
