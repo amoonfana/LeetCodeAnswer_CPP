@@ -1,0 +1,4 @@
+﻿  FizzBuzz.cpp
+f:\visual studio 2015 projects\fizzbuzz\fizzbuzz\fizzbuzz.cpp(47): warning C4018: '<': signed/unsigned mismatch
+  FizzBuzz.vcxproj -> F:\visual studio 2015 Projects\FizzBuzz\Debug\FizzBuzz.exe
+  FizzBuzz.vcxproj -> F:\visual studio 2015 Projects\FizzBuzz\Debug\FizzBuzz.pdb (Full PDB)
