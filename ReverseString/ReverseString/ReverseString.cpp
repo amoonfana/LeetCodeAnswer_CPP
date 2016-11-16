@@ -18,9 +18,8 @@ public:
 void main()
 {
 	Solution sol;
-	string res = sol.reverseString("abc");
 
-	cout << res << endl;
+	cout << sol.reverseString("abc") << endl;
 
 	system("pause");
 }
