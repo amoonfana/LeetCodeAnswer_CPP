@@ -1,4 +1,5 @@
 #include <iostream>
+#include <algorithm>
 
 using namespace std;
 
@@ -17,14 +18,8 @@ using namespace std;
 		 {
 			 return 0;
 		 }
-		 else if (root->left == NULL)
-		 {
-			 return 1;
-		 }
-		 else
-		 {
-			 return (maxDepth(root->left) + 1);
-		 }
+
+		 return max(maxDepth(root->left), maxDepth(root->right)) + 1;
 	 }
  };
 
