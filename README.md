@@ -1,10 +1,14 @@
-AddDigits: 
+AddDigits: https://leetcode.com/problems/add-digits
 
-AssignCookies: 
+AssignCookies: https://leetcode.com/problems/assign-cookies
+
+FindTheDifference: 
 
 FizzBuzz: https://leetcode.com/problems/fizz-buzz/
 
-IslandPerimeter: 
+InvertBinaryTree: https://leetcode.com/problems/invert-binary-tree
+
+IslandPerimeter: https://leetcode.com/problems/island-perimeter
 
 MaximumDepthOfBinaryTree: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
