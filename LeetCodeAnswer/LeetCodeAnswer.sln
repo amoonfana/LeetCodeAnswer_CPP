@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AddDigits", "AddDigits\AddDigits.vcxproj", "{131BD2F0-7315-405A-99CB-8DBE0DA051BD}"
 EndProject
@@ -134,6 +134,12 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DegreeOfAnArray", "DegreeOfAnArray\DegreeOfAnArray.vcxproj", "{90490B5C-B1B6-48FB-8385-2F93F4C84FD2}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumIndexSumOfTwoLists", "MinimumIndexSumOfTwoLists\MinimumIndexSumOfTwoLists.vcxproj", "{343BD25A-CE97-4E8F-8FD9-55CD872B20C7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LargestNumberGreaterThanTwiceOfOthers", "LargestNumberGreaterThanTwiceOfOthers\LargestNumberGreaterThanTwiceOfOthers.vcxproj", "{81B7CCCE-3625-457B-8961-E2BF02091066}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinCostClimbingStairs", "MinCostClimbingStairs\MinCostClimbingStairs.vcxproj", "{E7E64D82-7EAB-495B-B875-5CC2AEE39BF9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageSmoother", "ImageSmoother\ImageSmoother.vcxproj", "{F8E7C2BE-F1CF-405B-9847-5E0B1FF27286}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -671,6 +677,30 @@ Global
 		{343BD25A-CE97-4E8F-8FD9-55CD872B20C7}.Release|x64.Build.0 = Release|x64
 		{343BD25A-CE97-4E8F-8FD9-55CD872B20C7}.Release|x86.ActiveCfg = Release|Win32
 		{343BD25A-CE97-4E8F-8FD9-55CD872B20C7}.Release|x86.Build.0 = Release|Win32
+		{81B7CCCE-3625-457B-8961-E2BF02091066}.Debug|x64.ActiveCfg = Debug|x64
+		{81B7CCCE-3625-457B-8961-E2BF02091066}.Debug|x64.Build.0 = Debug|x64
+		{81B7CCCE-3625-457B-8961-E2BF02091066}.Debug|x86.ActiveCfg = Debug|Win32
+		{81B7CCCE-3625-457B-8961-E2BF02091066}.Debug|x86.Build.0 = Debug|Win32
+		{81B7CCCE-3625-457B-8961-E2BF02091066}.Release|x64.ActiveCfg = Release|x64
+		{81B7CCCE-3625-457B-8961-E2BF02091066}.Release|x64.Build.0 = Release|x64
+		{81B7CCCE-3625-457B-8961-E2BF02091066}.Release|x86.ActiveCfg = Release|Win32
+		{81B7CCCE-3625-457B-8961-E2BF02091066}.Release|x86.Build.0 = Release|Win32
+		{E7E64D82-7EAB-495B-B875-5CC2AEE39BF9}.Debug|x64.ActiveCfg = Debug|x64
+		{E7E64D82-7EAB-495B-B875-5CC2AEE39BF9}.Debug|x64.Build.0 = Debug|x64
+		{E7E64D82-7EAB-495B-B875-5CC2AEE39BF9}.Debug|x86.ActiveCfg = Debug|Win32
+		{E7E64D82-7EAB-495B-B875-5CC2AEE39BF9}.Debug|x86.Build.0 = Debug|Win32
+		{E7E64D82-7EAB-495B-B875-5CC2AEE39BF9}.Release|x64.ActiveCfg = Release|x64
+		{E7E64D82-7EAB-495B-B875-5CC2AEE39BF9}.Release|x64.Build.0 = Release|x64
+		{E7E64D82-7EAB-495B-B875-5CC2AEE39BF9}.Release|x86.ActiveCfg = Release|Win32
+		{E7E64D82-7EAB-495B-B875-5CC2AEE39BF9}.Release|x86.Build.0 = Release|Win32
+		{F8E7C2BE-F1CF-405B-9847-5E0B1FF27286}.Debug|x64.ActiveCfg = Debug|x64
+		{F8E7C2BE-F1CF-405B-9847-5E0B1FF27286}.Debug|x64.Build.0 = Debug|x64
+		{F8E7C2BE-F1CF-405B-9847-5E0B1FF27286}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8E7C2BE-F1CF-405B-9847-5E0B1FF27286}.Debug|x86.Build.0 = Debug|Win32
+		{F8E7C2BE-F1CF-405B-9847-5E0B1FF27286}.Release|x64.ActiveCfg = Release|x64
+		{F8E7C2BE-F1CF-405B-9847-5E0B1FF27286}.Release|x64.Build.0 = Release|x64
+		{F8E7C2BE-F1CF-405B-9847-5E0B1FF27286}.Release|x86.ActiveCfg = Release|Win32
+		{F8E7C2BE-F1CF-405B-9847-5E0B1FF27286}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
