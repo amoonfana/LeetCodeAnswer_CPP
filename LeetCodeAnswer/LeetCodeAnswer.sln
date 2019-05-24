@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AddDigits", "AddDigits\AddDigits.vcxproj", "{131BD2F0-7315-405A-99CB-8DBE0DA051BD}"
 EndProject
@@ -190,6 +190,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UglyNumber", "UglyNumber\UglyNumber.vcxproj", "{2FAFF9DC-C6ED-42CC-81E3-FE12FFEBD35D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SetMismatch", "SetMismatch\SetMismatch.vcxproj", "{977FBE9F-1C2D-427B-B8D6-E4C3BB1F74B1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RangeSumOfBST", "RangeSumOfBST\RangeSumOfBST.vcxproj", "{8F18D82C-3A7D-4AC7-B10D-AEFD4B7FA36B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -951,8 +953,19 @@ Global
 		{977FBE9F-1C2D-427B-B8D6-E4C3BB1F74B1}.Release|x64.Build.0 = Release|x64
 		{977FBE9F-1C2D-427B-B8D6-E4C3BB1F74B1}.Release|x86.ActiveCfg = Release|Win32
 		{977FBE9F-1C2D-427B-B8D6-E4C3BB1F74B1}.Release|x86.Build.0 = Release|Win32
+		{8F18D82C-3A7D-4AC7-B10D-AEFD4B7FA36B}.Debug|x64.ActiveCfg = Debug|x64
+		{8F18D82C-3A7D-4AC7-B10D-AEFD4B7FA36B}.Debug|x64.Build.0 = Debug|x64
+		{8F18D82C-3A7D-4AC7-B10D-AEFD4B7FA36B}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F18D82C-3A7D-4AC7-B10D-AEFD4B7FA36B}.Debug|x86.Build.0 = Debug|Win32
+		{8F18D82C-3A7D-4AC7-B10D-AEFD4B7FA36B}.Release|x64.ActiveCfg = Release|x64
+		{8F18D82C-3A7D-4AC7-B10D-AEFD4B7FA36B}.Release|x64.Build.0 = Release|x64
+		{8F18D82C-3A7D-4AC7-B10D-AEFD4B7FA36B}.Release|x86.ActiveCfg = Release|Win32
+		{8F18D82C-3A7D-4AC7-B10D-AEFD4B7FA36B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF999897-F272-4D5C-B2D0-E58DCBE19D19}
 	EndGlobalSection
 EndGlobal

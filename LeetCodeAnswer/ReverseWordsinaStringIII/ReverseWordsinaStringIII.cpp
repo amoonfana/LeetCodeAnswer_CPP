@@ -29,7 +29,7 @@ void main()
 {
 	Solution sol;
 
-	string s("Let's take LeetCode contest");
+	string s("ABC ABCDAB ABCDABCDABDE");
 
 	cout << sol.reverseWords(s).c_str() << endl;
 
