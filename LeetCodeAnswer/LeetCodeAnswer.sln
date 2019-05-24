@@ -193,6 +193,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SetMismatch", "SetMismatch\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RangeSumOfBST", "RangeSumOfBST\RangeSumOfBST.vcxproj", "{8F18D82C-3A7D-4AC7-B10D-AEFD4B7FA36B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoveOutermostParentheses", "RemoveOutermostParentheses\RemoveOutermostParentheses.vcxproj", "{A0F3FC89-6F0B-4852-8A34-81CE03D9E57E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -961,6 +963,14 @@ Global
 		{8F18D82C-3A7D-4AC7-B10D-AEFD4B7FA36B}.Release|x64.Build.0 = Release|x64
 		{8F18D82C-3A7D-4AC7-B10D-AEFD4B7FA36B}.Release|x86.ActiveCfg = Release|Win32
 		{8F18D82C-3A7D-4AC7-B10D-AEFD4B7FA36B}.Release|x86.Build.0 = Release|Win32
+		{A0F3FC89-6F0B-4852-8A34-81CE03D9E57E}.Debug|x64.ActiveCfg = Debug|x64
+		{A0F3FC89-6F0B-4852-8A34-81CE03D9E57E}.Debug|x64.Build.0 = Debug|x64
+		{A0F3FC89-6F0B-4852-8A34-81CE03D9E57E}.Debug|x86.ActiveCfg = Debug|Win32
+		{A0F3FC89-6F0B-4852-8A34-81CE03D9E57E}.Debug|x86.Build.0 = Debug|Win32
+		{A0F3FC89-6F0B-4852-8A34-81CE03D9E57E}.Release|x64.ActiveCfg = Release|x64
+		{A0F3FC89-6F0B-4852-8A34-81CE03D9E57E}.Release|x64.Build.0 = Release|x64
+		{A0F3FC89-6F0B-4852-8A34-81CE03D9E57E}.Release|x86.ActiveCfg = Release|Win32
+		{A0F3FC89-6F0B-4852-8A34-81CE03D9E57E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
